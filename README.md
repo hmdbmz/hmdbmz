@@ -4,12 +4,11 @@ As a teenager at school, I was the kid other students approached about issues wi
 
 Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software to solve problems. One of my most recent projects involved designing and rolling-out a new piece of software to track covid-19 cases.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a lean webscraper. 
+- 🔭 I’m currently working on a lean data web-scraper.
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on any project!
+- 🤔 I’m looking for help with React
 - 💬 Ask me about CNC programming 
 - 📫 How to reach me: shoot me a DM or email!
 - 😄 Pronouns: he/him
