@@ -11,6 +11,5 @@ Today, not much has changed. I’m still the first point of call for technical i
 - 🤔 I’m looking for help with React
 - 💬 Ask me about CNC programming 
 - 📫 How to reach me: shoot me a DM or email!
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Formule 1
 -->
