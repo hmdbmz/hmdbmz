@@ -13,3 +13,5 @@ Today, not much has changed. I’m still the first point of call for technical i
 - 📫 How to reach me: shoot me a DM or email!
 - ⚡ Fun fact: I love Formule 1
 -->
+
+(This is a public Github Account to showcase my progress.)
