@@ -16,4 +16,4 @@ One of my most recent projects involved designing and rolling-out a new piece of
 - ⚡ Fun fact: I love Formule 1
 
 
-(This is a public Github Account to showcase my progress.)
+(NOTE: This is a public Github Account to showcase my progress on personal projects , no work of my employers will be shown here.)
