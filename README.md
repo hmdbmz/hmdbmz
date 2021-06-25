@@ -13,7 +13,7 @@ One of my most recent projects involved designing and rolling-out a new piece of
 - 🤔 I’m looking for help with React
 - 💬 Ask me about CNC programming 
 - 📫 How to reach me: shoot me a DM or email!
-- ⚡ Fun fact: I love Formule 1
+- ⚡ Fun fact: I love Formule 1 , Seafood and creating programs!
 
 
 (NOTE: This is a public Github Account to showcase my progress on personal projects , no work of my employers will be shown here.)
