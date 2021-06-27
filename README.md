@@ -15,5 +15,4 @@ One of my most recent projects involved designing and rolling-out a new piece of
 - 📫 How to reach me: shoot me a DM or email!
 - ⚡ Fun fact: I love Formula 1 , Seafood and creating programs!
 
-
 (NOTE: This is a public Github Account to showcase my progress on personal projects , no work of my employers will be shown here.)
